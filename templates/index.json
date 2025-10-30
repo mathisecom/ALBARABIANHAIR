@@ -35,6 +35,112 @@
         "product_card_text_color": ""
       }
     },
+    "scrolling_text_rG3dwF": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "text_with_icons_98Xiia": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7pyrDk": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182748.893.avif",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_LxtmqT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182431.909.avif",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_CHQgMz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182724.896.avif",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7pyrDk",
+        "item_LxtmqT",
+        "item_CHQgMz"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_kHxMcE": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Mejores Ventas",
+        "content": "",
+        "link_url": "",
+        "link_text": "Descubrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -91,6 +197,9 @@
   },
   "order": [
     "featured_collection_AaEAg8",
+    "scrolling_text_rG3dwF",
+    "text_with_icons_98Xiia",
+    "featured_collection_kHxMcE",
     "faq"
   ]
 }

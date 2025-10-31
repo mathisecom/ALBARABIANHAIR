@@ -182,6 +182,29 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_kceCfb": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_8HVGbC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Únete a la comunidad @AlbaraBianHair</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_8HVGbC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_BUx8mh": {
       "type": "image-link-blocks",
       "blocks": {
@@ -417,6 +440,7 @@
     "scrolling_text_rG3dwF",
     "text_with_icons_98Xiia",
     "featured_collection_kHxMcE",
+    "rich_text_kceCfb",
     "image_link_blocks_BUx8mh",
     "testimonials_WAQf4L",
     "faq"

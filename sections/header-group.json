@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Envío Rápido Gratuito",
+            "url": ""
+          }
+        },
+        "message_qtdh3y": {
+          "type": "message",
+          "settings": {
+            "text": "Pago 100% Seguro",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_qtdh3y"
       ],
       "settings": {
         "enable_sticky": false,

@@ -19,13 +19,13 @@
           "settings": {
             "icon": "picto-box",
             "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T211659.903_1.avif",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Envío Gratuito",
+            "content": "<p>Una vez validado, su pedido será enviado en un plazo de 24 a 48 horas laborables.</p>"
           }
         },
         "customer-support": {
@@ -33,13 +33,13 @@
           "settings": {
             "icon": "picto-customer-support",
             "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T211941.445_1.avif",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Pago Seguro",
+            "content": "<p>Los pagos en nuestro sitio están encriptados y protegidos con 3D Secure.</p>"
           }
         },
         "discount": {
@@ -47,13 +47,13 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T211909.622_1.avif",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Atención al Cliente 24/7",
+            "content": "<p>¿Tiene alguna pregunta? Un miembro de nuestro equipo le responderá lo antes posible.</p>"
           }
         },
         "payment": {

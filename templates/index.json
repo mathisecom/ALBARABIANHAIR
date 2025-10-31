@@ -185,6 +185,15 @@
     "rich_text_kceCfb": {
       "type": "rich-text",
       "blocks": {
+        "heading_rmT6Lh": {
+          "type": "heading",
+          "settings": {
+            "text": "Más de 3.000 mujeres satisfechas",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "richtext_8HVGbC": {
           "type": "richtext",
           "settings": {
@@ -193,6 +202,7 @@
         }
       },
       "block_order": [
+        "heading_rmT6Lh",
         "richtext_8HVGbC"
       ],
       "name": "Rich text",

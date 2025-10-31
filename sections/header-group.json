@@ -24,6 +24,13 @@
         "message_qtdh3y": {
           "type": "message",
           "settings": {
+            "text": "Más de 3.500 Mujeres Satisfechas",
+            "url": ""
+          }
+        },
+        "message_m7tNk6": {
+          "type": "message",
+          "settings": {
             "text": "Pago 100% Seguro",
             "url": ""
           }
@@ -31,7 +38,8 @@
       },
       "block_order": [
         "message",
-        "message_qtdh3y"
+        "message_qtdh3y",
+        "message_m7tNk6"
       ],
       "settings": {
         "enable_sticky": false,

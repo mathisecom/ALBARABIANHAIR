@@ -417,33 +417,41 @@
           "type": "item",
           "settings": {
             "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>Las pelucas naturales están hechas de cabello humano, lo que ofrece un aspecto más realista, una textura natural y una gran versatilidad para peinarlas. Las pelucas sintéticas, en cambio, están fabricadas con fibras artificiales que imitan el cabello humano, pero requieren menos mantenimiento.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>Las pelucas naturales necesitan cuidados similares a los del cabello real. Se recomienda utilizar productos de calidad diseñados para cabello humano, lavarlas regularmente y guardarlas correctamente para evitar enredos y nudos.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>Sí, al igual que el cabello natural, puede teñir, cortar y peinar su peluca según sus preferencias. Se aconseja acudir a un profesional para los tratamientos químicos con el fin de preservar la calidad del cabello.</p>"
+          }
+        },
+        "item_CVD9WY": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>Con un cuidado adecuado, las pelucas naturales pueden durar varios meses o incluso años. La durabilidad depende de la frecuencia de uso, del mantenimiento y de la calidad del cabello.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_CVD9WY"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Preguntas Frecuentes",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",

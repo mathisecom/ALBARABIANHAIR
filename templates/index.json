@@ -46,7 +46,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -100,8 +100,8 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182748.893.avif",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -114,8 +114,8 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182431.909.avif",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -128,8 +128,8 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182724.896.avif",
-            "mobile_icon_width": 40,
-            "icon_width": 40,
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",

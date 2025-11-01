@@ -1,1 +1,518 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"vendor","settings":{}},"title":{"type":"title","settings":{}},"badges":{"type":"badges","settings":{}},"price":{"type":"price","settings":{}},"rating":{"type":"rating","settings":{}},"payment_terms":{"type":"payment_terms","settings":{}},"separator":{"type":"separator","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{}},"pickup_availability":{"type":"pickup_availability","settings":{}}},"block_order":["vendor","title","badges","price","rating","payment_terms","separator","description","variant_picker","quantity_selector","buy_buttons"],"settings":{}},"related-products":{"type":"related-products","settings":{}}},"order":["main","related-products"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_8q3gcB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style> \n        .badge-container {\n          display: flex;\n          gap: 10px;\n          flex-wrap: wrap;\n          margin-top: 10px;\n        }\n\n        .offer-badge {\n          display: inline-block;\n          padding: 4px 10px;\n          font-size: 12px;\n          font-weight: bold;\n          color: white;\n          background-color: #101010;\n          border-radius: 15px;\n          text-transform: uppercase;\n          white-space: nowrap;\n        }\n      </style>\n\n      <div class=\"badge-container\">\n        <div class=\"offer-badge\">CALIDAD PREMIUM</div>\n        <div class=\"offer-badge\">EFECTO ULTRANATURAL</div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_PVgRaY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Estrellas\" width=\"63\" height=\"13\">\n  <span><b>4.8/5</b> basado en 3.200 opiniones</span>\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_UMqxq7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style>\n        .avantages {\n          display: flex;\n          flex-direction: column;\n          gap: 5px;\n        }\n\n        .avantage {\n          display: flex;\n          align-items: center;\n          gap: 5px;\n        }\n\n        .avantage img {\n          width: 15px;\n          height: 15px;\n          filter: brightness(0) saturate(100%) invert(11%) sepia(10%) saturate(338%) hue-rotate(3deg) brightness(98%) contrast(94%);\n        }\n\n        .avantage p {\n          font-size: 12px;\n          margin: 0;\n        }\n      </style>\n\n      <div class=\"avantages\">\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Confort absoluto</b> & efecto ultranatural</p>\n        </div>\n\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p><b>Calidad premium</b> validada por nuestras embajadoras</p>\n        </div>\n\n        <div class=\"avantage\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0246/2862/5460/files/cocher.png?v=1719351830\">\n          <p>Para <b>mujeres seguras</b> y radiantes</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_rgx3PR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"main-product__block main-product__block-custom_liquid\">\n    <div class=\"m-product-text\">\n      <style>\n        #delivery-container {\n          display: flex;\n          align-items: center;\n          justify-content: center;\n          font-size: 0.85rem;\n          margin-bottom: 1rem;\n        }\n        #delivery-icon {\n          font-size: inherit;\n          margin-right: 0.35rem;\n          vertical-align: middle;\n          width: 16px;\n          height: 16px;\n        }\n        #delivery-text {\n          margin: 0;\n        }\n        #delivery-date {\n          font-weight: bold;\n        }\n        .product-info__block-item.product-info__block-item-small #delivery-container {\n          margin-bottom: calc(var(--product-info-gap) / 4);\n        }\n        @media screen and (max-width: 749px) {\n          #delivery-container {\n            font-size: 0.75rem;\n          }\n        }\n      </style>\n\n      <div id=\"delivery-container\">\n        <svg id=\"delivery-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 14 13\" fill=\"none\">\n          <path d=\"M8.60809 0.914506L8.6081 0.914508L13.2956 3.49263C13.3613 3.52876 13.416 3.58186 13.4542 3.64639C13.4924 3.71091 13.5125 3.78449 13.5125 3.85945V9.95319C13.5125 10.0282 13.4924 10.1017 13.4542 10.1663C13.416 10.2308 13.3613 10.2839 13.2956 10.32L8.6081 12.8981L8.63219 12.9419L8.60809 12.8981C8.54626 12.9322 8.47683 12.95 8.40626 12.95C8.33568 12.95 8.26625 12.9322 8.20442 12.8981L8.18032 12.9419L8.20442 12.8981L6.13043 11.7574L6.53408 11.0242L7.91341 11.7829L7.98751 11.8237V11.7391V6.7146V6.68504L7.9616 6.67079L3.51693 4.22627C3.45128 4.19012 3.39653 4.13702 3.3584 4.07249C3.32027 4.00797 3.30015 3.9344 3.30015 3.85945C3.30015 3.7845 3.32027 3.71092 3.3584 3.6464C3.39653 3.58188 3.45128 3.52877 3.51693 3.49262L8.20442 0.914508L8.20442 0.914506C8.26625 0.880489 8.33568 0.862653 8.40626 0.862653C8.47683 0.862653 8.54626 0.880489 8.60809 0.914506ZM8.43035 1.77282L8.40626 1.75957L8.38216 1.77282L4.66732 3.81563L4.58765 3.85945L4.66732 3.90326L8.38216 5.94607L8.40626 5.95932L8.43035 5.94607L12.1452 3.90326L12.2249 3.85945L12.1452 3.81563L8.43035 1.77282ZM12.6491 9.71998L12.675 9.70573V9.67617V4.65163V4.56707L12.6009 4.60782L8.85091 6.67032L8.82501 6.68457V6.71413V11.7387V11.8232L8.8991 11.7825L12.6491 9.71998Z\" fill=\"black\" stroke=\"#E9E9E9\" stroke-width=\"0.1\"></path>\n          <path d=\"M4.0625 6.78131H0.5625V6.09381H4.0625V6.78131ZM5 10.5313H1.5V9.84381H5V10.5313ZM5.9375 8.65631H2.4375V7.96881H5.9375V8.65631Z\" fill=\"black\" stroke=\"#FBFAF9\" stroke-width=\"0.25\"></path>\n        </svg>\n        <p id=\"delivery-text\">¡Ordena ahora y recíbelo el <span id=\"delivery-date\">viernes 7 de noviembre</span></p>\n      </div>\n\n      <script>\n        function calculateDeliveryDate(country) {\n          let today = new Date();\n          let deliveryDate;\n\n          if (country === 'France') {\n            deliveryDate = new Date(today.setDate(today.getDate() + 6));\n          } else if (country === 'Europe') {\n            deliveryDate = new Date(today.setDate(today.getDate() + 6));\n          } else {\n            deliveryDate = new Date(today.setDate(today.getDate() + 6));\n          }\n\n          let options = { weekday: 'long', month: 'long', day: 'numeric' };\n          return deliveryDate.toLocaleDateString('es-ES', options);\n        }\n\n        function fetchCountry() {\n          fetch('https://ipapi.co/json/')\n            .then(response => response.json())\n            .then(data => {\n              let country = data.country_name;\n              let deliveryDate = calculateDeliveryDate(country);\n              document.getElementById('delivery-date').textContent = deliveryDate;\n            })\n            .catch(error => {\n              console.error('Error al obtener la ubicación:', error);\n              let deliveryDate = calculateDeliveryDate('France');\n              document.getElementById('delivery-date').textContent = deliveryDate;\n            });\n        }\n\n        fetchCountry();\n      </script>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "collapsible_text_mqw8BC": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "100% Cabello Real",
+            "content": "<p>Proporcionando <strong>pelucas y extensiones de cabello humano de calidad al mejor precio del mercado</strong>, Alba Arabian Hair utiliza únicamente <strong>cabello Remy grado 12A</strong>, y cada mechón está hecho <strong>de la raíz a las puntas</strong>, lo que está garantizado. La <strong>calidad es nuestro corazón</strong>, y la adoramos.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_MbyLVQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Consejos de cuidado",
+            "content": "<p>Aplica un sérum protector contra el calor antes de usar cualquier fuente de calor en tus extensiones para mantenerlas intactas durante varios años.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_fYTfEL": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Información sobre el envío",
+            "content": "<p>Enviamos tu pedido en un plazo de 7 a 10 días hábiles, según tu ubicación. Nos esforzamos por garantizar una entrega rápida y eficiente para que puedas disfrutar de tus productos lo antes posible.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_CBeUhd": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "14 días para cambiar de opinión",
+            "content": "<p>Para los pedidos realizados, dispones de 14 días (a partir de la fecha de recepción del artículo) para cambiar de opinión.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_8q3gcB",
+        "liquid_PVgRaY",
+        "title",
+        "price",
+        "liquid_UMqxq7",
+        "rating",
+        "payment_terms",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "liquid_rgx3PR",
+        "collapsible_text_mqw8BC",
+        "collapsible_text_MbyLVQ",
+        "collapsible_text_fYTfEL",
+        "collapsible_text_CBeUhd"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "scrolling_text_k88DmK": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "#LUXURYHAIR",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
+    "text_with_icons_TAimYn": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_QCXbir": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182748.893.avif",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": ""
+          }
+        },
+        "item_yzeM6P": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182431.909.avif",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": ""
+          }
+        },
+        "item_qhdA7k": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_-_2025-05-10T182724.896.avif",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_QCXbir",
+        "item_yzeM6P",
+        "item_qhdA7k"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#fffcfa",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_wF6A4M": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_tMJWgD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Modern_Minimal_Elegant_Signature_Photography_Logo_27_1.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Sobre Alba Arabian Hair.",
+            "content": "<p>Orgullosa de sus raíces senegalesas, nuestra marca fusiona la <strong>excelencia india</strong> con la <strong>gracia senegalesa</strong> para ofrecer <strong>pelucas lujosas y llenas de cultura</strong>.</p><p>Nos comprometemos a <strong>celebrar la diversidad, la autenticidad y la emancipación individual</strong> a través de cada creación.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#fffcfa",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_tMJWgD"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "image_link_blocks_3CTrnw": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_hzJtrL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T181256.885.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_WLY3cc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T181307.906.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bcbrEL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T181042.372.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_VAE7hh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T181032.081.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_rjYJzc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T180752.872.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_FDA6d9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T180708.938.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_hzJtrL",
+        "item_WLY3cc",
+        "item_bcbrEL",
+        "item_VAE7hh",
+        "item_rjYJzc",
+        "item_FDA6d9"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_KerA7a": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_ytnq7L": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T220818.242.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_kTYAL4": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T220822.461.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_8yyPwf": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T221214.734.avif",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_bgwtr7": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T221145.809.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_xKLhKb": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T220831.750.avif",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ytnq7L",
+        "testimonial_kTYAL4",
+        "testimonial_8yyPwf",
+        "testimonial_bgwtr7",
+        "testimonial_xKLhKb"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "scrolling_text_k88DmK",
+    "text_with_icons_TAimYn",
+    "media_with_text_wF6A4M",
+    "image_link_blocks_3CTrnw",
+    "testimonials_KerA7a",
+    "related-products"
+  ]
+}

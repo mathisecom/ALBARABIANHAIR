@@ -470,9 +470,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Mary U.",
+            "title": "¡Increíble!",
+            "content": "<p>La peluca es increíble, ¡muy natural! Realmente parece mi propio cabello. Recibo cumplidos todos los días.</p>"
           }
         },
         "testimonial_CLHXNn": {
@@ -482,9 +482,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Ana C.",
+            "title": "La calidad es excepcional",
+            "content": "<p>¡Ni parece que estoy usando una peluca! La calidad es excepcional y es tan cómoda que a veces me olvido de que la llevo puesta.</p>"
           }
         },
         "testimonial_4cCqkw": {
@@ -494,9 +494,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Aïcha B.",
+            "title": "Muy cómoda",
+            "content": "<p>Muy cómoda de llevar todo el día. Se mantiene en su lugar y la calidad del cabello es excelente.</p>"
           }
         },
         "testimonial_GdLtQL": {
@@ -506,9 +506,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Aline V.",
+            "title": "¡Gracias por esta joya!",
+            "content": "<p>Me siento hermosa y segura cada vez que la pongo. ¡Gracias por esta joya!</p>"
           }
         },
         "testimonial_6qrtTR": {
@@ -517,10 +517,10 @@
             "image": "shopify://shop_images/Design_sans_titre_-_2025-05-10T220822.461.webp",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Sofía R.",
+            "title": "¡Simplemente perfecta!",
+            "content": "<p>La peluca se ve increíble y se siente muy ligera. ¡Recibo elogios cada vez que la uso!</p>"
           }
         }
       },

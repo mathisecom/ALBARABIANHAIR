@@ -505,12 +505,20 @@
             "title": "¿Puedo teñir o peinar mi peluca natural?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
+        },
+        "item_n6yAUH": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cuánto tiempo duran las pelucas naturales?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "item_imNTNJ",
         "item_fAQ6iN",
-        "item_7FiAH3"
+        "item_7FiAH3",
+        "item_n6yAUH"
       ],
       "name": "FAQ",
       "settings": {

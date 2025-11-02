@@ -561,6 +561,13 @@
             "content": "<p>Las pelucas naturales están hechas de cabello humano, lo que ofrece un aspecto más realista, una textura natural y una gran versatilidad para peinarlas. Las pelucas sintéticas, en cambio, están fabricadas con fibras artificiales que imitan el cabello humano, pero requieren menos mantenimiento.</p>"
           }
         },
+        "item_xjPX7A": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Las pelucas naturales están hechas de cabello humano, lo que ofrece un aspecto más realista, una textura natural y una gran versatilidad para peinarlas. Las pelucas sintéticas, en cambio, están fabricadas con fibras artificiales que imitan el cabello humano, pero requieren menos mantenimiento.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -585,6 +592,7 @@
       },
       "block_order": [
         "166442457738b23caf-0",
+        "item_xjPX7A",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_CVD9WY"

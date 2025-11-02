@@ -488,7 +488,7 @@
         "item_imNTNJ": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "¿Cuál es la diferencia entre las pelucas naturales y las sintéticas?",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },

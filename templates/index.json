@@ -154,6 +154,21 @@
     "collection_list_cejYhc": {
       "type": "collection-list",
       "blocks": {
+        "collection_NWpKwX": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Anadir_un_titulo.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_kVxziA": {
           "type": "collection",
           "settings": {
@@ -213,6 +228,7 @@
         }
       },
       "block_order": [
+        "collection_NWpKwX",
         "collection_kVxziA",
         "collection_bM7zDk",
         "collection_BqMRxU",

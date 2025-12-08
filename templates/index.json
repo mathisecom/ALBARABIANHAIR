@@ -198,28 +198,14 @@
             "overlay_opacity": 30
           }
         },
-        "collection_nqmyrR": {
-          "type": "collection",
-          "settings": {
-            "collection": "pelucas-sin-pegamento-wear-go-para-principiantes",
-            "image": "shopify://shop_images/Untitled_design_b8beac55-7c60-41ff-bcbc-1f041c9ca7ab.png",
-            "subheading": "PELUCAS SIN PEGAMENTO",
-            "title": "GLUELESS",
-            "url": "shopify://collections/pelucas-sin-pegamento-wear-go-para-principiantes",
-            "heading_tag": "h6",
-            "text_position": "place-self-end text-end",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_BqMRxU": {
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/Untitled_design_b8beac55-7c60-41ff-bcbc-1f041c9ca7ab.png",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://collections/pelucas-sin-pegamento-wear-go-para-principiantes",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -246,7 +232,6 @@
         "collection_NWpKwX",
         "collection_kVxziA",
         "collection_bM7zDk",
-        "collection_nqmyrR",
         "collection_BqMRxU",
         "collection_cfq3Ch"
       ],
@@ -267,33 +252,6 @@
         "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured_collection_AaEAg8": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "Featured collection",
-      "settings": {
-        "collection": "color-collection",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "COLOR COLLECTION",
-        "content": "",
-        "link_url": "",
-        "link_text": "Descubrir",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "scrolling_text_rG3dwF": {
@@ -735,7 +693,6 @@
     "slideshow_EiMkhj",
     "logo_list_mtMjEy",
     "collection_list_cejYhc",
-    "featured_collection_AaEAg8",
     "scrolling_text_rG3dwF",
     "text_with_icons_98Xiia",
     "featured_collection_kHxMcE",

@@ -20,7 +20,6 @@
         "show_collection_image": true,
         "collection_title_size": "h6",
         "image_size": "lg",
-        "mobile_image": "shopify://shop_images/Untitled_design.png",
         "mobile_text_position": "place-self-end-start text-start",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "featured_product": "",

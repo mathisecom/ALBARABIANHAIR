@@ -154,6 +154,21 @@
     "collection_list_cejYhc": {
       "type": "collection-list",
       "blocks": {
+        "collection_TapCQm": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Untitled_design.png",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://collections/color-collection",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_NWpKwX": {
           "type": "collection",
           "settings": {
@@ -215,6 +230,7 @@
         }
       },
       "block_order": [
+        "collection_TapCQm",
         "collection_NWpKwX",
         "collection_kVxziA",
         "collection_BqMRxU",

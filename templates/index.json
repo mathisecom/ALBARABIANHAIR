@@ -207,7 +207,7 @@
             "title": "GLUELESS",
             "url": "shopify://collections/pelucas-sin-pegamento-wear-go-para-principiantes",
             "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -260,11 +260,11 @@
         "subheading": "",
         "title": "",
         "content": "<p><em><strong>COLLECTION LIST</strong></em></p>",
-        "link_url": "",
+        "link_url": "shopify://collections/color-collection",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": ""
       }

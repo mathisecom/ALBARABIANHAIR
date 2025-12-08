@@ -154,21 +154,6 @@
     "collection_list_cejYhc": {
       "type": "collection-list",
       "blocks": {
-        "collection_TapCQm": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/Untitled_design.png",
-            "subheading": "",
-            "title": "",
-            "url": "shopify://collections/color-collection",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_NWpKwX": {
           "type": "collection",
           "settings": {
@@ -177,6 +162,21 @@
             "subheading": "",
             "title": "",
             "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_TapCQm": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Untitled_design.png",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://collections/color-collection",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -230,8 +230,8 @@
         }
       },
       "block_order": [
-        "collection_TapCQm",
         "collection_NWpKwX",
+        "collection_TapCQm",
         "collection_kVxziA",
         "collection_BqMRxU",
         "collection_cfq3Ch"
@@ -241,7 +241,7 @@
         "full_width": true,
         "stack_collections": false,
         "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
+        "collections_per_row": 2,
         "show_progress_bar": false,
         "subheading": "",
         "title": "",

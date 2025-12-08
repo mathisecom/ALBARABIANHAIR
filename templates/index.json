@@ -192,7 +192,7 @@
             "title": "",
             "url": "shopify://collections/color-collection",
             "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30

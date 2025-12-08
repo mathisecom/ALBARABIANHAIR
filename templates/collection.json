@@ -15,7 +15,7 @@
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": true,
-        "show_collection_title": true,
+        "show_collection_title": false,
         "show_collection_description": true,
         "show_collection_image": true,
         "collection_title_size": "h6",

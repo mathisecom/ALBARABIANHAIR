@@ -154,6 +154,35 @@
     "collection_list_cejYhc": {
       "type": "collection-list",
       "blocks": {
+        "collection_nqmyrR": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Untitled_design_6c6d69b5-a7cf-4c16-8f34-6081b71fda98.png",
+            "subheading": "PELUCAS SIN PEGAMENTO",
+            "title": "GLUELESS",
+            "url": "shopify://collections/pelucas-sin-pegamento-wear-go-para-principiantes",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_aPJUhd": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_NWpKwX": {
           "type": "collection",
           "settings": {
@@ -228,6 +257,8 @@
         }
       },
       "block_order": [
+        "collection_nqmyrR",
+        "collection_aPJUhd",
         "collection_NWpKwX",
         "collection_kVxziA",
         "collection_bM7zDk",

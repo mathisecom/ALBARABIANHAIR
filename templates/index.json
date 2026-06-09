@@ -284,21 +284,6 @@
             "overlay_opacity": 0
           }
         },
-        "collection_TapCQm": {
-          "type": "collection",
-          "settings": {
-            "collection": "color-collection",
-            "image": "shopify://shop_images/623C2B9D-F3D8-4CC1-AC14-9609F604FA9A.png",
-            "subheading": "",
-            "title": "",
-            "url": "shopify://collections/color-collection",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "collection_BqMRxU": {
           "type": "collection",
           "settings": {
@@ -307,7 +292,7 @@
             "subheading": "",
             "title": "",
             "url": "shopify://products/king-kylie-peluca-de-cabello-liso-humano-negro-wear-go-sin-pegamento-precortada-con-encaje-hd-prearrancada",
-            "heading_tag": "h2",
+            "heading_tag": "h6",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -322,7 +307,7 @@
             "subheading": "",
             "title": "",
             "url": "shopify://products/molly-peluca-cabello-humano-100-sin-pegamento-facil-postura-en-3-segundos-encaje-hd-precortada-y-con-reflejos-ombre",
-            "heading_tag": "h2",
+            "heading_tag": "h6",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -337,20 +322,35 @@
             "subheading": "",
             "title": "",
             "url": "shopify://products/vivi-royale-peluca-cabello-humano-sin-pegamento-facil-postura-recortada-y-prearrancada-con-encaje-suizo-hd-rizo-afro",
-            "heading_tag": "h2",
+            "heading_tag": "h6",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_TapCQm": {
+          "type": "collection",
+          "settings": {
+            "collection": "color-collection",
+            "image": "shopify://shop_images/623C2B9D-F3D8-4CC1-AC14-9609F604FA9A.png",
+            "subheading": "",
+            "title": "",
+            "url": "shopify://collections/color-collection",
+            "heading_tag": "h6",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "collection_7mwfC3",
-        "collection_TapCQm",
         "collection_BqMRxU",
         "collection_NWpKwX",
-        "collection_kVxziA"
+        "collection_kVxziA",
+        "collection_TapCQm"
       ],
       "name": "Collection list",
       "settings": {

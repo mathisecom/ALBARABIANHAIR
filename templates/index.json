@@ -151,32 +151,6 @@
         "logo_item_border": ""
       }
     },
-    "featured_collection_abiXFH": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "pelucas-sin-pegamento-wear-go-para-principiantes",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 2,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Nuestros BEST SELLERS :",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "scrolling_text_rG3dwF": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -675,7 +649,6 @@
     "slideshow_dHG6JP",
     "slideshow_EiMkhj",
     "logo_list_mtMjEy",
-    "featured_collection_abiXFH",
     "scrolling_text_rG3dwF",
     "media_with_text_dPnYVC",
     "text_with_icons_98Xiia",

@@ -276,18 +276,18 @@
             "collection": "hair-extension",
             "subheading": "",
             "title": "",
-            "url": "",
-            "heading_tag": "h2",
+            "url": "shopify://products/hair-extensions",
+            "heading_tag": "h6",
             "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "text_color": "#f2f2f2",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_TapCQm": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "color-collection",
             "image": "shopify://shop_images/623C2B9D-F3D8-4CC1-AC14-9609F604FA9A.png",
             "subheading": "",
             "title": "",
@@ -302,11 +302,11 @@
         "collection_BqMRxU": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "pelucas-sin-pegamento-wear-go-para-principiantes",
             "image": "shopify://shop_images/B24F0EAF-C6C6-46A9-A5B6-E1F4071548BC.png",
             "subheading": "",
             "title": "",
-            "url": "shopify://collections/pelucas-sin-pegamento-wear-go-para-principiantes",
+            "url": "shopify://products/king-kylie-peluca-de-cabello-liso-humano-negro-wear-go-sin-pegamento-precortada-con-encaje-hd-prearrancada",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -317,11 +317,11 @@
         "collection_NWpKwX": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "wifey-collection",
             "image": "shopify://shop_images/F3205028-54DA-4337-99E8-854B9239CCCD.png",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://products/molly-peluca-cabello-humano-100-sin-pegamento-facil-postura-en-3-segundos-encaje-hd-precortada-y-con-reflejos-ombre",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
@@ -332,11 +332,11 @@
         "collection_kVxziA": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "essential-collection",
             "image": "shopify://shop_images/B14990BE-69C3-4F86-8707-2179B8A26C25.png",
             "subheading": "",
             "title": "",
-            "url": "",
+            "url": "shopify://products/vivi-royale-peluca-cabello-humano-sin-pegamento-facil-postura-recortada-y-prearrancada-con-encaje-suizo-hd-rizo-afro",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",

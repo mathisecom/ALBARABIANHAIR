@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "show_collection_title": false,
         "show_collection_description": true,
-        "show_collection_image": true,
+        "show_collection_image": false,
         "collection_title_size": "h6",
         "image_size": "auto",
         "image": "shopify://shop_images/623C2B9D-F3D8-4CC1-AC14-9609F604FA9A.png",

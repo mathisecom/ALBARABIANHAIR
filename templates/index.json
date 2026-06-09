@@ -270,6 +270,20 @@
     "collection_list_cejYhc": {
       "type": "collection-list",
       "blocks": {
+        "collection_7mwfC3": {
+          "type": "collection",
+          "settings": {
+            "collection": "hair-extension",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection_TapCQm": {
           "type": "collection",
           "settings": {
@@ -332,6 +346,7 @@
         }
       },
       "block_order": [
+        "collection_7mwfC3",
         "collection_TapCQm",
         "collection_BqMRxU",
         "collection_NWpKwX",
@@ -347,7 +362,7 @@
         "subheading": "",
         "title": "",
         "content": "<p><em><strong>COLLECTION LIST</strong></em></p>",
-        "link_url": "shopify://collections",
+        "link_url": "shopify://collections/all",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",

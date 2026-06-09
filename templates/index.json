@@ -15,8 +15,8 @@
         "image_gn3nyX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BC0B1C51-BA51-410A-94D2-F2CA359FB001.png",
-            "mobile_image": "shopify://shop_images/1DCFAAAC-A07F-44F7-B6EE-9F8E04778132.png",
+            "image": "shopify://shop_images/CABELLO_DE_ELITE_PARA_MUJERES_DE_ELITE_Miniatura_de_YouTube.png",
+            "mobile_image": "shopify://shop_images/CABELLO_DE_ELITE_PARA_MUJERES_DE_ELITE.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -187,7 +187,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#251f16",
+        "background": "#9c9393",
         "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
@@ -300,7 +300,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Untitled_design.png",
+            "image": "shopify://shop_images/623C2B9D-F3D8-4CC1-AC14-9609F604FA9A.png",
             "subheading": "",
             "title": "",
             "url": "shopify://collections/color-collection",
@@ -315,7 +315,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Untitled_design_7ab08134-0f90-428a-877e-0487651b2d0f.png",
+            "image": "shopify://shop_images/B24F0EAF-C6C6-46A9-A5B6-E1F4071548BC.png",
             "subheading": "",
             "title": "",
             "url": "shopify://collections/pelucas-sin-pegamento-wear-go-para-principiantes",
@@ -330,7 +330,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Anadir_un_titulo.png",
+            "image": "shopify://shop_images/F3205028-54DA-4337-99E8-854B9239CCCD.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -345,7 +345,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/Untitled_design.jpg",
+            "image": "shopify://shop_images/B14990BE-69C3-4F86-8707-2179B8A26C25.png",
             "subheading": "",
             "title": "",
             "url": "",
